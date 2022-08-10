@@ -1,6 +1,7 @@
 #include <vector>
 #include <iostream>
-//ordem de complexidade: O(n/2)+ O(m/2)
+//ordem de complexidade: 4T(n/2 + m/2) + 3 
+//4T(n/2 + m/2) + C
 using namespace std;
 
 int Soma(vector<vector<int>>& matriz, int linhai, int linhaf, int colunai, int colunaf){
