@@ -1,6 +1,6 @@
 #include <vector>
 #include <iostream>
-//ordem de complexidade: 4T(n/2 + m/2) + 3 
+//ordem de complexidade: 4T(n/2 + m/2) + 4 
 //4T(n/2 + m/2) + C
 using namespace std;
 
